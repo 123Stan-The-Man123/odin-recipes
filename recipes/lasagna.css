@@ -1,0 +1,25 @@
+* {
+    line-height: 1.5;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fffaf0;
+    border: #c7b169;
+}
+
+div.page {
+
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
