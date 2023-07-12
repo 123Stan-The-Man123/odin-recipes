@@ -1,13 +1,10 @@
 * {
     line-height: 1.5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #fffaf0;
-}
-
-div.page {
     margin: auto;
 }
 
@@ -15,12 +12,16 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    text-align: left;
+    margin-left: 2.5%;
+}
+
 img {
     display: block;
     border-radius: 50%;
     border: solid 8px;
-    border-color: #c7b169;;
-    margin-left: auto;
-    margin-right: auto;
+    border-color: #c7b169;
+    margin: auto;
     width: 50%;
 }
