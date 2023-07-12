@@ -9,6 +9,10 @@ body {
 
 div.page {
     margin: auto;
+    width: 90%;
+    height: auto;
+    border: solid 4px;
+    border-color: #c7b169;
 }
 
 h1 {
