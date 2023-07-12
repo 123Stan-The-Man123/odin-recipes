@@ -2,3 +2,30 @@
     line-height: 1.5;
 }
 
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fffaf0;
+}
+
+div.page {
+    margin: auto;
+    background-color: #fffaf0;
+    width: 90%;
+    height: auto;
+    border: solid 4px;
+    border-color: #c7b169;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: solid 8px;
+    border-radius: 50%;
+    border-color: #c7b169;
+}
